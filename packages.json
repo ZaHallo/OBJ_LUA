@@ -1,0 +1,10 @@
+[
+  {
+    "baseUrl":"https://raw.githubusercontent.com/ZaHallo/OBJ_LUA/main/",
+    "repo":[
+      {
+        "TestInstance":"test.lua"
+      }
+    ]
+  }
+]
